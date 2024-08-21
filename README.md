@@ -1,18 +1,18 @@
-# AstridTitle
+# 🌀 AstridTitle
 
-This plugin allows you to assign and manage custom titles for players on your Minecraft server.
+AstridTitle is a powerful plugin for managing and assigning custom titles to players on your Minecraft server. Enhance player engagement with personalized titles and dynamic title management.
 
 ## Features
-- **Assign Titles:** Easily assign custom titles to players.
-- **Title Management:** Reload and manage titles on the go.
-- **Permissions:** Control access with a dedicated permission node.
+- 🎨 **Assign Titles**: Easily assign custom titles to individual players.
+- 🔄 **Title Management**: Reload and manage titles seamlessly.
+- 🔒 **Permissions**: Control access with a dedicated permission node.
 
 ## Commands
 
-| Command                 | Description                            |
-|-------------------------|----------------------------------------|
-| `/playtitle <player> <title>` | Assign a title to a player.         |
-| `/playtitle reload`     | Reload the plugin configuration.        |
+| Command                      | Description                             |
+|------------------------------|-----------------------------------------|
+| `🖋️ /playtitle <player> <title>` | Assign a specific title to a player.    |
+| `🔄 /playtitle reload`          | Reload the plugin’s configuration.      |
 
 ### Examples
 
