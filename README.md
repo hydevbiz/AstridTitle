@@ -19,3 +19,27 @@ Welcome to the AstridTitle plugin! 🎉 This plugin allows you to assign and man
 1. **Assign a Title:**
    ```plaintext
    /playtitle senseinova flytime30
+
+## Configuration
+
+The plugin’s configuration files can be found in the `plugins/AstridTitle` directory. Below is the configuration format for customizing titles:
+
+```yaml
+titlename:
+  title: ''
+  subtitle: ''
+  fadein: 20
+  staytime: 40
+  fadeout: 20
+```
+
+Example Configuration
+
+```yaml
+flytime15:
+  title: '&r'
+  subtitle: '&e+15 minutes'
+  fadein: 20
+  staytime: 40
+  fadeout: 20
+```
