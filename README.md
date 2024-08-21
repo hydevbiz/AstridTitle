@@ -1,6 +1,6 @@
 # AstridTitle
 
-Welcome to the AstridTitle plugin! 🎉 This plugin allows you to assign and manage custom titles for players on your Minecraft server.
+This plugin allows you to assign and manage custom titles for players on your Minecraft server.
 
 ## Features
 - **Assign Titles:** Easily assign custom titles to players.
