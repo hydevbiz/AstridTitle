@@ -1,6 +1,6 @@
 # 🎖️ AstridTitle
 
-AstridTitle is a powerful plugin for managing and assigning custom titles to players on AstridCloud Minecraft server. Enhance player engagement with personalized titles and dynamic title management.
+AstridTitle is a custom plugin designed for the AstridCloud Minecraft server. 🎖️ It empowers you to manage and assign personalized titles to players, enhancing engagement with dynamic title management tailored specifically for AstridCloud.
 
 ## Features
 - 🎨 **Assign Titles**: Easily assign custom titles to individual players.
